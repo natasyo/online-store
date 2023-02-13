@@ -1,0 +1,17 @@
+$background-dark: #2b3253;
+$font-color-dark: #fff;
+$product-rating-bg-dark: #6f64f8;
+$product-item-bg-dark: #0f1642;
+$product-discount-dark: #ffa84c;
+$wishlist-bg-dark: #b8c2cc;
+$wishlist-font-dark: #000;
+$add-cart-font-dark: #fff;
+$add-cart-bg: #6f64f8;
+$font-family: "Montserrat", sans-serif;
+$font-logo-color-dark: #7e72f2;
+$border-radius: 8px;
+$padding: 15px;
+
+@mixin hover-shadow {
+  box-shadow: 0px 1px 6px 8px rgb(255 255 255 / 30%);
+}
